@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-internship"
+    }
+  },
+  "defaultProject": "angular-internship",
+  "cli": {
+    "analytics": "0a83b6d9-491c-422b-9b8d-cad7de08ab74"
+  }
 }
